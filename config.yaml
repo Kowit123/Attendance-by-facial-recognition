@@ -1,0 +1,11 @@
+camera:
+  index: 0
+face_engine:
+  model: buffalo_s
+  provider: CUDAExecutionProvider
+google_sheet:
+  sheet_key: 1Z8fCMWu-q91MScz4ni6qYUFf2NiDkc7Iqgn6_sMK-bw
+recognition:
+  threshold: 0.75
+time:
+  late_after: 15
